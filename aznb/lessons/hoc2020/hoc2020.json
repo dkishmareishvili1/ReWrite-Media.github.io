@@ -1,0 +1,18 @@
+{
+    "creatorName" : "Minecraft",
+    "title": "Hour of Code 2020",
+    "description": "Diversity is fun!",
+    "pages": [
+        "ball",
+        "beets"
+    ],
+    "additionalLanguages" : [
+
+    ],
+    "activityTracker" :{
+        "$type" : "scoreboard",
+        "data" : {
+            "activitySelectorObjective" : "test"
+        }
+    }
+}

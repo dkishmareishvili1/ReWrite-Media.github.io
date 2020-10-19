@@ -1,0 +1,1 @@
+webpackJsonpAzureNotebooks([12],{1973:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=o(0),r=(o.n(n),o(20)),s=o(17);class d extends n.Component{render(){const e=this.props.editorComponent;return e?n.createElement(e,this.props):null}}t.ExtendedEditor=d;t.default=Object(r.connect)(e=>({editorComponent:s.editorComponent(e)}))(d)}});
