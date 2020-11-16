@@ -1,0 +1,17 @@
+{
+    "creatorName" : "Minecraft",
+    "title": "Hour of Code 2020",
+    "description": "Diversity is fun!",
+    "pages": [
+        "tutorial_1"
+    ],
+    "additionalLanguages" : [
+
+    ],
+    "activityTracker" :{
+        "$type" : "scoreboard",
+        "data" : {
+            "activitySelectorObjective" : "test"
+        }
+    }
+}
