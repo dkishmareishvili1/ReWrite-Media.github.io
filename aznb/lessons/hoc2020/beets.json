@@ -6,7 +6,18 @@
         "beets"
     ],
     "additionalLanguages" : [
-
+        "da-DK",
+        "es-MX",
+        "fr-CA",
+        "it-IT",
+        "ja-JP",
+        "ko-KR",
+        "nb-NO",
+        "nl-NL",
+        "pt-BR",
+        "sv-SE",
+        "tr-TR",
+        "zh-CN"
     ],
     "activityTracker" :{
         "$type" : "scoreboard",
